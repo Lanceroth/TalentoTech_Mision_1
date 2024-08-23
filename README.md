@@ -1,12 +1,13 @@
 #  TalentoTech Mision 1
 
 ##  Lista de Integrantes:
-+ -
-+ -
-+ -
-+ -
-+ -
-+ -
++ -Carlos José Delgado González
++ -Jesus David Guerra Pineda
++ -Luis Ramón Marchena Espitia
++ -Christian José Schotborgh Caraballo
++ -Wendy Yulieth Buelvas España
++ -Ruben Dario Sepulveda Betancurt
+
 
 ##  Proyecto #1: Servicios de Gestión Documental:
 
@@ -37,6 +38,9 @@ debe tener el enlace público
 con el método main
 
 # Diagrama de clase:
+
+[Descripcion de cada clase](Diagrama%20UML.docx)
+
 ![Diagrama_de_clase](Diagrama%20gestion%20documental2.jpg)
 
 
