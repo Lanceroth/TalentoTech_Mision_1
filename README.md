@@ -41,9 +41,11 @@ con el método main
 
 [Descripcion de cada clase](Diagrama%20UML.docx)
 
+![Diagrama de clase](Diagrama%20gestion%20documental2.jpg)
+
 # Diagrama Entidad-Relacional(ER):
 
-[Descripcion de cada clase]
+[Script.sql](GestionDocumento.sql)
 
 ![Diagrama_de_clase](Diagrama%20ER.jpeg)
 
