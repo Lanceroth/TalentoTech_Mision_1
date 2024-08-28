@@ -29,7 +29,7 @@ Cabe destacar que el sistema debe estar diseñado e implantado en un enfoque ori
 tener el enlace público
 
 *  Tercera Entrega
-- [ ] Diagrama Relacional de la Base de datos
+- [x] Diagrama Relacional de la Base de datos
 
 *  Entrega Final
 - [ ] Script SQL del esquema de base de datos y crear un repositorio en Git,
@@ -41,7 +41,11 @@ con el método main
 
 [Descripcion de cada clase](Diagrama%20UML.docx)
 
-![Diagrama_de_clase](Diagrama%20gestion%20documental2.jpg)
+# Diagrama Entidad-Relacional(ER):
+
+[Descripcion de cada clase]
+
+![Diagrama_de_clase](Diagrama%20ER.jpeg)
 
 
 
