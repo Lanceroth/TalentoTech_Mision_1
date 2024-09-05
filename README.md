@@ -1,7 +1,6 @@
 #  TalentoTech Mision 1
 
 ##  Lista de Integrantes:
-+ -Carlos José Delgado González
 + -Jesus David Guerra Pineda
 + -Luis Ramón Marchena Espitia
 + -Christian José Schotborgh Caraballo
