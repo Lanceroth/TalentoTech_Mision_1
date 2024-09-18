@@ -49,4 +49,28 @@ con el método main
 ![Diagrama_de_clase](Diagrama%20ER.jpeg)
 
 
+## Proyecto #2: Implementación y Documentación de Sistema de Gestión
+
+En este proyecto, el objetivo es desarrollar una aplicación web que incluya funcionalidades avanzadas de gestión de datos mediante operaciones CRUD, consultas SQL complejas, y documentación exhaustiva del sistema. La aplicación debe ser desarrollada utilizando Java o Python, con un enfoque en la eficiencia y la optimización.
+
+### Tecnologías Utilizadas:
+- IDE IntelliJ
+- Java 17 para el desarrollo de operaciones CRUD.
+- MySQL para consultas y gestión de base de datos.
+
+### Entregas:
+
+* **Primera Entrega:**
+  - [x] Implementación de operaciones CRUD avanzadas: Desarrollar las operaciones de Crear, Leer, Actualizar y Eliminar de manera eficiente (Java o Python).
+
+* **Segunda Entrega:**
+  - [x] Consultas SQL complejas: Utilizar y optimizar consultas SQL complejas para el acceso a datos (Java o Python).
+
+* **Tercera Entrega:**
+  - [ ] Elaborar una documentación detallada que incluya una guía de usuario, instrucciones para la configuración y despliegue de la aplicación, y una descripción de la arquitectura y las tecnologías utilizadas.
+
+* **Entrega Final:**
+  - [x] Código HTML, CSS, JavaScript de la interfaz; de no ser posible, proporcionar una versión en consola con el método `main`.
+
+
 
